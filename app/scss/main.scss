@@ -1,0 +1,13 @@
+
+
+// atoms
+
+@import 'atoms/variables'; // para que funcione el archivo de variables siempre debe ir arriba del todo
+
+@import 'atoms/btn';
+@import 'atoms/common';
+
+
+// molecules
+
+@import 'molecules/sections';
